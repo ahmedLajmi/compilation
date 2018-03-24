@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1520365237 source:c:\users\ahlaj\desktop\compilation\compilation\analysesyntaxique.c
+	"analyseSyntaxique.h"
+
+1519934949 c:\users\ahlaj\desktop\compilation\compilation\analysesyntaxique.h
+	<ctype.h>
+	"analyseLexicale.h"
+	"pile.h"
+	"tableM.h"
+	"arbre.h"
+
+1518874625 c:\users\ahlaj\desktop\compilation\compilation\analyselexicale.h
+	"tableId.h"
+	"fichier.h"
+	<string.h>
+
+1520155750 c:\users\ahlaj\desktop\compilation\compilation\tableid.h
+	"tableMotCle.h"
+	<stdlib.h>
+
+1519937523 c:\users\ahlaj\desktop\compilation\compilation\tablemotcle.h
+	<string.h>
+	<stdlib.h>
+	"chaine.h"
+
+1517482738 c:\users\ahlaj\desktop\compilation\compilation\chaine.h
+	<stdlib.h>
+	<string.h>
+
+1517474111 c:\users\ahlaj\desktop\compilation\compilation\fichier.h
+	<stdlib.h>
+	<stdio.h>
+
+1517477505 c:\users\ahlaj\desktop\compilation\compilation\pile.h
+	<stdlib.h>
+
+1517482698 source:c:\users\ahlaj\desktop\compilation\compilation\chaine.c
+	"chaine.h"
+
+1517474310 source:c:\users\ahlaj\desktop\compilation\compilation\fichier.c
+	"fichier.h"
+
+1520122743 source:c:\users\ahlaj\desktop\compilation\compilation\main.c
+	<stdio.h>
+	<stdlib.h>
+	"analyseSemantique.h"
+
+1518297702 source:c:\users\ahlaj\desktop\compilation\compilation\pile.c
+	"pile.h"
+	<stdio.h>
+
+1520181433 source:c:\users\ahlaj\desktop\compilation\compilation\tableid.c
+	"tableId.h"
+
+1518874487 source:c:\users\ahlaj\desktop\compilation\compilation\tablemotcle.c
+	"tableMotCle.h"
+
+1520365909 source:c:\users\ahlaj\desktop\compilation\compilation\analyselexicale.c
+	"analyseLexicale.h"
+
+1517742959 c:\users\ahlaj\desktop\compilation\compilation\tablem.h
+	<stdlib.h>
+	<stdio.h>
+
+1518468890 source:c:\users\ahlaj\desktop\compilation\compilation\tablem.c
+	"tableM.h"
+	<string.h>
+
+1520364858 source:c:\users\ahlaj\desktop\compilation\compilation\arbre.c
+	"arbre.h"
+	<ctype.h>
+
+1520122566 c:\users\ahlaj\desktop\compilation\compilation\arbre.h
+	"tableMotCle.h"
+	<ctype.h>
+
+1520095904 c:\users\ahlaj\desktop\compilation\compilation\analysesemantique.h
+	<stdlib.h>
+	<ctype.h>
+	"analyseSyntaxique.h"
+
+1520365953 source:c:\users\ahlaj\desktop\compilation\compilation\analysesemantique.c
+	"analyseSemantique.h"
+

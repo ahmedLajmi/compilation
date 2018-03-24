@@ -1,0 +1,6 @@
+(* sfvdsvfhujnk, *) program  hello ; var rr,aa,b ,a, bb,x : integer ; var c ,d: char ;
+begin  
+rr:= bb+aa; if aa==9 then rr:=14 else (*writeln(bb)*) while x do a:=5 
+ end .
+
+

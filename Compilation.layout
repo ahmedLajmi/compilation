@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="analyseSemantique.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="137" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="analyseSyntaxique.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5300" topLine="99" />
+		</Cursor>
+	</File>
+	<File name="tableId.c" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2512" topLine="46" />
+		</Cursor>
+	</File>
+	<File name="analyseLexicale.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="147" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="94" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="tableM.c" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="962" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="arbre.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2364" topLine="17" />
+		</Cursor>
+		<Folding>
+			<Collapse line="15" />
+			<Collapse line="111" />
+			<Collapse line="123" />
+		</Folding>
+	</File>
+	<File name="tableM.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="140" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="analyseSemantique.c" open="1" top="1" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9526" topLine="84" />
+		</Cursor>
+		<Folding>
+			<Collapse line="19" />
+			<Collapse line="22" />
+			<Collapse line="25" />
+			<Collapse line="41" />
+			<Collapse line="45" />
+			<Collapse line="61" />
+			<Collapse line="78" />
+			<Collapse line="83" />
+			<Collapse line="92" />
+			<Collapse line="105" />
+			<Collapse line="108" />
+			<Collapse line="112" />
+			<Collapse line="114" />
+			<Collapse line="124" />
+			<Collapse line="128" />
+			<Collapse line="161" />
+			<Collapse line="166" />
+			<Collapse line="175" />
+		</Folding>
+	</File>
+	<File name="arbre.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="231" topLine="17" />
+		</Cursor>
+	</File>
+	<File name="pile.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="171" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="analyseSyntaxique.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="234" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="tableMotCle.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="623" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="tableMotCle.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="988" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="analyseLexicale.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2202" topLine="25" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="30" />
+			<Collapse line="177" />
+			<Collapse line="195" />
+			<Collapse line="219" />
+			<Collapse line="224" />
+		</Folding>
+	</File>
+	<File name="tableId.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="344" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
